@@ -1,1 +1,1 @@
-Server API : CRUD Basic
+Server API : CRUD
